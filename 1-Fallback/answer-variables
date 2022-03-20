@@ -1,0 +1,4 @@
+contract.contribute({value:1})  
+// Send Eth to the Instance address 
+contract.withdraw()  
+//Press submit button 
